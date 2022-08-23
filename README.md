@@ -1,4 +1,4 @@
-Worked on a website project using HTML and CSS
+Worked on a website project using HTML and CSS and javascript
 # website
 # These sites were used for taking pictures and writing code
 
